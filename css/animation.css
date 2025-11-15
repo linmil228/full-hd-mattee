@@ -11,3 +11,6 @@
         cursor: pointer;
     }
 }
+.button-publish:hover{
+    background-color: black;   
+}
