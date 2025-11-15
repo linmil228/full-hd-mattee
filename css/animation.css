@@ -1,0 +1,13 @@
+.nav-button:hover{
+    background-color: black;
+}
+.info-menu-button:hover{
+    background-color: #0077FF;
+}
+.format-case{
+    p:hover{
+        background-color: black;
+        color: white;
+        cursor: pointer;
+    }
+}
